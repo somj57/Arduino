@@ -1,7 +1,7 @@
 //For this to work you need to have node mcu 
-
-void setup() {
- pinMode(D0, 1);
+//For Arduino you need to change pin number to respective pin number |
+void setup() {  //                                                   |
+ pinMode(D0, 1);//<--------------------------------------------------                                                     
  pinMode(D4, 1);
  pinMode(D2, 1);
 
