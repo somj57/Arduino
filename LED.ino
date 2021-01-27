@@ -1,5 +1,5 @@
 //For this to work you need to have node mcu 
-//For Arduino you need to change pin number to respective pin number |
+//For Arduino you need to change pin number to respective pin number. |
 void setup() {  //                                                   |
  pinMode(D0, 1);//<--------------------------------------------------                                                     
  pinMode(D4, 1);
